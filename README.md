@@ -5,5 +5,6 @@ Basic script that:
   - Uses reLU activation
   - Multiclass classification using softmax
   - Nesterov momentum
+  - Dropout
 
 Most of the code was liberated and hacked together. 
